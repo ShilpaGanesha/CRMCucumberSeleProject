@@ -1,0 +1,13 @@
+url =https://freecrm.com/
+browser= chrome
+email=shilpaganesha2@gmail.com
+pass=Gane1606
+title=testing Deal
+discription= cucumber testing
+commiUSD=1000
+amouUSD=2000
+nextsteps=add more deals
+stagevalue=Qualify
+statusvalue=New
+typevalue=Old
+sourcevalue=Online
